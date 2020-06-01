@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<array>
+	<muaythay></muaythay>
+	<jiujitsu>
+		<beneficios1> Defesa Pessoal</beneficios1>
+		<beneficios1> Diminui o stress</beneficios1>
+		<beneficios1> Define o corpo</beneficios1>
+		<beneficios1> Melhora a Resistência</beneficios1>
+		<beneficios1> Melhora os reflexos</beneficios1>
+		<beneficios2> Disciplina</beneficios2>
+		<beneficios2> Desenvolve o caráter</beneficios2>
+		<beneficios2> Perda de peso</beneficios2>
+		<beneficios2> Paciência</beneficios2>
+		<beneficios2> Flexibilidade</beneficios2>
+	</jiujitsu>
+	<boxe>
+		<beneficios1> Defesa Pessoal</beneficios1>
+		<beneficios1> Diminui o stress</beneficios1>
+		<beneficios1> Define o corpo</beneficios1>
+		<beneficios1> Melhora a Resistência</beneficios1>
+		<beneficios1> Melhora os reflexos</beneficios1>
+		<beneficios2> Disciplina</beneficios2>
+		<beneficios2> Desenvolve o caráter</beneficios2>
+		<beneficios2> Perda de peso</beneficios2>
+		<beneficios2> Paciência</beneficios2>
+		<beneficios2> Flexibilidade</beneficios2>
+	</boxe>
+</array>
